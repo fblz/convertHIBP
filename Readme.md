@@ -16,7 +16,7 @@ go install
 ## Usage
 
 ```
-convertHIBP.exe
+convertHIBP
   -InputFile string
         Specify the ascii hibp file (default "none")
   -OutputFile string
